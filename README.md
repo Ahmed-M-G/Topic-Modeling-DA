@@ -1,6 +1,6 @@
 # Topic_Modeling_DA
 ## Basic text preprocessing and topic modeling
-   - The goal of this assignment is to get familiar with textual data analysis.
+ * ### The goal of this assignment is to get familiar with textual data analysis.
 
  * ### Task 1: The given dataset is a table containing questions about R on StackOverflow site. Your first task is to perform standard text prepossessing steps introduced in lectures for future tasks. You can perform analysis on title or body of the questions.
 
